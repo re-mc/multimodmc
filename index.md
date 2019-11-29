@@ -1,1 +1,1 @@
-[Release:](https://github.com/re-mc/multimodmc/releases) 
+[Releases](https://github.com/re-mc/multimodmc/releases) 
